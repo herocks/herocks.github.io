@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
-[Java Notes](./java.md).
+[Java Notes](./java.html).
