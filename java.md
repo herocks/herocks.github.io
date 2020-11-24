@@ -5,10 +5,11 @@ layout: default
 # Java Notes
 
 ## Table of contents
+___
 
 1. [Class](#class)
-   1.1.      Instance (member) variable
-   1.2.      Consructor
+   - [Instance Variable](#instance-variable)
+   - [Consructor](#constructor)
 
 
 
@@ -17,5 +18,9 @@ layout: default
 
 
 
-
+___
 ## Class
+
+### Instance Variable
+
+### Constructor
